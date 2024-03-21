@@ -2,6 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Discord: _metalius_
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
