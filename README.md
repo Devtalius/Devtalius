@@ -1,1 +1,1 @@
-discord: _metalius_
+discord: \_metalius_
